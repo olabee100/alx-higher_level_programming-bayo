@@ -1,0 +1,212 @@
+NTONIO@DESKTOP-CT0EUL6 MINGW64 ~ (master)
+$ cd alx-higher_level_programming
+
+ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming (main)
+$ cd 0x09-python-everything_is_object
+
+ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_objt (main)
+$ ll
+total 10
+-rw-r--r-- 1 ANTONIO 197121  5 Jan  3 23:25 0-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  3 Jan  3 23:25 1-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  3 Jan  3 23:26 2-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  4 Jan  3 23:30 3-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  4 Jan  3 23:28 4-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  3 Jan  3 23:31 5-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  5 Jan  3 23:33 6-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  5 Jan  3 23:33 7-answer.txt
+-rw-r--r-- 1 ANTONIO 197121  5 Jan  3 23:34 8-answer.txt
+-rw-r--r-- 1 ANTONIO 197121 13 Jan  3 23:24 README.md
+
+ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_objt (main)
+$ vi 9-answer.txt
+
+ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_objt (main)
+$ vi 10-answer.txt
+
+ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+$ git add .
+warning: in the working copy of '0x09-python-everything_is_object/10-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/3-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/4-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/5-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/6-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/7-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/8-answer.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '0x09-python-everything_is_object/9-answer.txt', LF will be replaced by CRLF the next time Git touches it
+
+ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+$ git commit -m "ok"
+[main bc78606] ok
+ 9 files changed, 8 insertions(+)
+  create mode 100644 0x09-python-everything_is_object/.swp
+   create mode 100644 0x09-python-everything_is_object/10-answer.txt
+    create mode 100644 0x09-python-everything_is_object/3-answer.txt
+     create mode 100644 0x09-python-everything_is_object/4-answer.txt
+      create mode 100644 0x09-python-everything_is_object/5-answer.txt
+       create mode 100644 0x09-python-everything_is_object/6-answer.txt
+        create mode 100644 0x09-python-everything_is_object/7-answer.txt
+	 create mode 100644 0x09-python-everything_is_object/8-answer.txt
+	  create mode 100644 0x09-python-everything_is_object/9-answer.txt
+	  git
+	  ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	  $ git push
+	  Enumerating objects: 8, done.
+	  Counting objects: 100% (8/8), done.
+	  Delta compression using up to 4 threads
+	  Compressing objects: 100% (4/4), done.
+	  Writing objects: 100% (6/6), 665 bytes | 110.00 KiB/s, done.
+	  Total 6 (delta 1), reused 0 (delta 0), pack-reused 0
+	  remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+	  To https://github.com/olabee100/alx-higher_level_programming.git
+	     b0bcfcf..bc78606  main -> main
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $  vi 11-answer.txt
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $ vi 12-answer.txt
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $ vi 13-answer.txt
+	     v
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $ vi 14-answer.txt
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $ vi 15-answer.txt
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $
+
+
+
+
+
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $ git add .
+	     warning: in the working copy of '0x09-python-everything_is_object/11-answer.txt', LF will be replaced by CRLF the next time Git touches it
+	     warning: in the working copy of '0x09-python-everything_is_object/12-answer.txt', LF will be replaced by CRLF the next time Git touches it
+	     warning: in the working copy of '0x09-python-everything_is_object/13-answer.txt', LF will be replaced by CRLF the next time Git touches it
+	     warning: in the working copy of '0x09-python-everything_is_object/14-answer.txt', LF will be replaced by CRLF the next time Git touches it
+	     warning: in the working copy of '0x09-python-everything_is_object/15-answer.txt', LF will be replaced by CRLF the next time Git touches it
+
+	     ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+	     $ git commit -m "ok"
+	     [main 0d85a98] ok
+	      5 files changed, 5 insertions(+)
+	       create mode 100644 0x09-python-everything_is_object/11-answer.txt
+	        create mode 100644 0x09-python-everything_is_object/12-answer.txt
+		 create mode 100644 0x09-python-everything_is_object/13-answer.txt
+		  create mode 100644 0x09-python-everything_is_object/14-answer.txt
+		   create mode 100644 0x09-python-everything_is_object/15-answer.txt
+
+		   ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		   $ git push
+		   Enumerating objects: 8, done.
+		   Counting objects: 100% (8/8), done.
+		   Delta compression using up to 4 threads
+		   Compressing objects: 100% (3/3), done.
+		   Writing objects: 100% (6/6), 447 bytes | 89.00 KiB/s, done.
+		   Total 6 (delta 2), reused 0 (delta 0), pack-reused 0
+		   remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+		   To https://github.com/olabee100/alx-higher_level_programming.git
+		      bc78606..0d85a98  main -> main
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 16-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 17-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 18-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 19-copy_list.py
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 20-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 21-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 22-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 23-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 24-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi  25-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 26-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi  27-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ vi 28-answer.txt
+
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ git add .
+		      git warning: in the working copy of '0x09-python-everything_is_object/16-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      cwarning: in the working copy of '0x09-python-everything_is_object/17-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/18-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/19-copy_list.py', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/20-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/21-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/22-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/23-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/24-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/25-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/26-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/27-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      warning: in the working copy of '0x09-python-everything_is_object/28-answer.txt', LF will be replaced by CRLF the next time Git touches it
+		      omm
+		      ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+		      $ git commit -m "ok"
+		      git [main 3be711f] ok
+		       13 files changed, 15 insertions(+)
+		        create mode 100644 0x09-python-everything_is_object/16-answer.txt
+			 create mode 100644 0x09-python-everything_is_object/17-answer.txt
+			  create mode 100644 0x09-python-everything_is_object/18-answer.txt
+			   create mode 100644 0x09-python-everything_is_object/19-copy_list.py
+			    create mode 100644 0x09-python-everything_is_object/20-answer.txt
+			     create mode 100644 0x09-python-everything_is_object/21-answer.txt
+			      create mode 100644 0x09-python-everything_is_object/22-answer.txt
+			       create mode 100644 0x09-python-everything_is_object/23-answer.txt
+			        create mode 100644 0x09-python-everything_is_object/24-answer.txt
+				 create mode 100644 0x09-python-everything_is_object/25-answer.txt
+				  create mode 100644 0x09-python-everything_is_object/26-answer.txt
+				   create mode 100644 0x09-python-everything_is_object/27-answer.txt
+				    create mode 100644 0x09-python-everything_is_object/28-answer.txt
+				    p
+				    ANTONIO@DESKTOP-CT0EUL6 MINGW64 ~/alx-higher_level_programming/0x09-python-everything_is_object (main)
+				    $ git push
+				    Enumerating objects: 7, done.
+				    Counting objects: 100% (7/7), done.
+				    Delta compression using up to 4 threads
+				    Compressing objects: 100% (4/4), done.
+				    Writing objects: 100% (5/5), 503 bytes | 26.00 KiB/s, done.
+
