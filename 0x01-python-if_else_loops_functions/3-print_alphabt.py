@@ -1,4 +1,6 @@
 #!/usr/bin/python3
-for char in range(26):
-    if char != 5 and char != 17:
-        print("{:s}".format(chr(char + ord("a"))), end="")
+for i in range(ord('a'), ord('z') + 1):
+    if chr(i) == 'e' or chr(i) == 'q':
+        continue
+    else:
+        print("{:s}".format(chr(i)), end="")
